@@ -17,7 +17,7 @@
 6. และเรายังกำหนดสี พื้นหลังหรือว่า background-color โดยใช้รหัสสี #DCDCDC 
 
 ## presentation: 
-  canva link [public/ubu] 
+  canva link : https://www.canva.com/design/DAF_CTaus_8/M3sWU7vXHwemC87fTDFOtw/edit?utm_content=DAF_CTaus_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## video: 
   link [public/ubu] 
