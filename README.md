@@ -20,4 +20,4 @@
   canva link : https://www.canva.com/design/DAF_CTaus_8/M3sWU7vXHwemC87fTDFOtw/edit?utm_content=DAF_CTaus_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## video: 
-  link : https://drive.google.com/drive/u/0/folders/115V_a9-KX7EMi7Mmks54susUa-rZn9xX
+  link : https://drive.google.com/drive/u/0/folders/115V_a9-KX7EMi7Mmks54susUa-rZn9xX?q=parent:115V_a9-KX7EMi7Mmks54susUa-rZn9xX
