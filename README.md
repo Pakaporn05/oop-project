@@ -20,5 +20,4 @@
   canva link : https://www.canva.com/design/DAF_CTaus_8/M3sWU7vXHwemC87fTDFOtw/edit?utm_content=DAF_CTaus_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## video: 
-  คำแนะนำ : หลังจากกดที่ลิ้งค์นี้แล้ว แนะนำให้กดที่ล้างตัวกรอกนะคะ หรือไม่ก็กดที่กิจกรรมถึงจะเจอคลิป มันอยู่ตรงตัวiเล็กๆที่มุมขวามือค่ะ
-  link : https://drive.google.com/drive/u/0/folders/115V_a9-KX7EMi7Mmks54susUa-rZn9xX?q=parent:115V_a9-KX7EMi7Mmks54susUa-rZn9xX
+  link : [https://drive.google.com/drive/u/0/folders/115V_a9-KX7EMi7Mmks54susUa-rZn9xX?q=parent:115V_a9-KX7EMi7Mmks54susUa-rZn9xX](https://drive.google.com/file/d/1bS_HfAqokKzSTsGaf3WrHZASTsPaybwl/view?usp=sharing)https://drive.google.com/file/d/1bS_HfAqokKzSTsGaf3WrHZASTsPaybwl/view?usp=sharing
